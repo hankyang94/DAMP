@@ -7,7 +7,7 @@ If you find this implementation useful for your research, please cite:
 @InProceedings{Yang21ICCV-DAMP,
     title={Dynamical Pose Estimation},
     author={Yang, Heng and Doran, Chris and Slotine, Jean-Jacques},
-    booktitle={International Conference on Computer Vision (ICCV)}
+    booktitle={International Conference on Computer Vision (ICCV)},
     year={2021}
 }
 ```
